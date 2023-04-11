@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dominik Raunnigger</h1>
-<h3 align="center">A passionate developer from Austria</h3>
+<h1>Hi 👋, I'm Dominik Raunnigger</h1>
+<h3>A passionate developer from Austria</h3>
 
 ![User.getStats()](https://github-readme-stats.vercel.app/api?username=raudoc18&show_icons=true&theme=dark)
 
